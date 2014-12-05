@@ -18,3 +18,4 @@ Diagnosis(John,Fever)
 HasTraveled(John,Timbuktu)
 
 The agent should write result as TRUE or FALSE in output.txt file
+For this example, the program will print TRUE.

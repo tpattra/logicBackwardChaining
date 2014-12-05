@@ -3,8 +3,6 @@ logicBackwardChaining
 
 Logic inference using backward chaining
 
-This program is for CSCI 561 AI Homework 3
-
 input file pattern including query, number of clauses, and clauses (and facts):
 Example of input.txt:
 
